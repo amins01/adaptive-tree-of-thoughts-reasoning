@@ -52,4 +52,5 @@ The final reasoning will be outputted in the console.
 ## Visualization
 
 After every thinking step, an interactive visualization of the ToT will be displayed. Once the reasoning is over, the final ToT will be displayed highlighting the best reasoning branch:
+![image](https://github.com/user-attachments/assets/9666d3a5-1384-4f2d-9530-c166c9fc11d1)
 
