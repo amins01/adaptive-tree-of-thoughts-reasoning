@@ -29,11 +29,11 @@
 
  Experiment runs, metrics, and visualizations are logged to MLflow. You can view the results by starting the MLflow UI:
 
-    ```bash
-    mlflow ui
-    ```
+```bash
+mlflow ui
+```
 
-Run the `main.py` script:
+Run the `main.py` script (you can edit the hyperparameters directly in the main.py file):
 
 ```bash
 python main.py \
