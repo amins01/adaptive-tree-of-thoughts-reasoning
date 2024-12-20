@@ -1,0 +1,10 @@
+transformers
+torch
+google-generativeai
+mlflow
+python-dotenv
+tqdm
+networkx
+matplotlib
+mplcursors
+numpy
