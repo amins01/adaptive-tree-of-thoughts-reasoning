@@ -1,0 +1,5 @@
+Problem: {initial_prompt}
+
+Generate the final answer to the problem. The answer should be concise and verifiable, so ONLY output the final answer. DO NOT output any extra text.
+
+Final Answer: 

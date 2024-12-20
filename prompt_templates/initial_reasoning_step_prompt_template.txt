@@ -1,0 +1,11 @@
+Problem: {initial_prompt}
+
+Existing Sibling Thoughts:
+{sibling_thoughts}
+
+Goal: Generate a single concise initial reasoning step different from the Existing Sibling Thoughts.
+
+Ensure the initial reasoning step is:
+- CONCISE and specific to the problem details
+- Distinct from the Existing Sibling Thoughts
+- A concrete FIRST STEP in solving the problem

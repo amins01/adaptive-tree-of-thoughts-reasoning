@@ -1,0 +1,7 @@
+Problem: {initial_prompt}
+
+Follow these instructions carefully:
+
+- Read the question carefully.
+- Break down the problem into logical steps.
+- You MUST conclude with the final answer in the following format: "Final answer: [your answer]".

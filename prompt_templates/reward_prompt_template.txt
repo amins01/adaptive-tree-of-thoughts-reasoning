@@ -1,0 +1,11 @@
+Problem: {initial_prompt}
+
+Reasoning Path:
+{reasoning_path}
+
+Sibling Thoughts (representing the next reasoning step):
+{sibling_thoughts}
+
+Instructions: These sibling thoughts represent different potential next steps in the reasoning process for solving the given problem. You are tasked with ranking these thoughts from best to worst based on their correctness, conciseness, relevance to the problem, and how well they contribute to the overall reasoning process. Consider the entire reasoning path leading up to these thoughts to understand their context. The order of the IDs is arbitrary and should not influence your ranking. Focus solely on the content of each thought. Output ONLY a comma-separated list of thought IDs in descending order of quality (best thought first). DO NOT OUTPUT ANY ACKWNOWLEDGEMENT OR EXPLANATION TEXT.
+
+Ranked Thought IDs:

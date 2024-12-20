@@ -1,0 +1,25 @@
+Prompt:
+
+Problem:
+{initial_prompt}
+
+Reasoning Path (steps taken so far):
+{reasoning_path}
+Current Reasoning Step:
+{current_thought}
+
+Existing Next Step Sibling Reasoning Steps (other attempts so far):
+{sibling_thoughts}
+
+Task:
+Determine the very next concrete and actionable step required to solve the problem. Your next reasoning step must:
+
+Focus on logic, calculations, or mathematical formulations that directly advance the problem. Avoid general phrases or descriptions.
+Address one clear aspect of the problem at a time without combining multiple steps into one.
+Introduce a distinct idea not already covered in the sibling reasoning steps provided above.
+Example of an ideal next step:
+
+If solving an equation: Simplify a specific term or isolate a variable.
+If performing calculations: Compute or estimate a value for a specific part of the problem.
+If proving something: Deduce or derive the next logical statement.
+Write your next reasoning step clearly, using mathematical expressions or computations where possible.

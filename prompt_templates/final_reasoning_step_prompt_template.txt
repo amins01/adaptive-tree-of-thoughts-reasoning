@@ -1,0 +1,7 @@
+Problem:
+{initial_prompt}
+
+Reasoning Path:
+{reasoning_path}
+
+Based on the provided reasoning path, think step by step and provide a final explanation leading to the solution. Your explanation should reflect clear understanding and follow logically from the reasoning path. End your response by explicitly stating the solution on a new line starting with "Final answer:" followed by the result. The output MUST end with "Final answer:" followed by the result. Do not include any additional text, context, or explanation after the final answer.

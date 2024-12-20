@@ -1,0 +1,12 @@
+Problem: {initial_prompt}
+
+Reasoning Path:
+{reasoning_path}
+
+Current Reasoning Step: {current_thought}
+
+Considering the complexity of the Current Reasoning Step, how many different versions of the *next* reasoning step should be generated? If the Current Reasoning Step already provides a satisfactory final solution, output 0 to indicate that this is a final reasoning step. A satisfactory final solution provides the complete final numerical answer and not an intermediary step.
+
+Output ONLY a single integer representing the number of attempts.  The number of attempts should be between 1 and {max_resources_per_step}. DO NOT OUTPUT ANY ACKWNOWLEDGEMENT OR EXPLANATION TEXT.
+
+Number of Attempts:

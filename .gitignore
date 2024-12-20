@@ -1,0 +1,11 @@
+.env
+__pycache__
+datasets/finetuning
+examples
+mlartifacts
+mlruns
+
+utils/evaluation.py
+utils/finetuning.py
+evaluate.py
+finetune.py

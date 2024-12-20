@@ -1,0 +1,1 @@
+GEMINI_MODELS = ["gemini-1.5-flash", "gemini-1.5-pro", "models/gemini-1.5-flash-001-tuning", "tunedModels/gemini15flash001tuningv1"]
